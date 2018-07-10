@@ -31,6 +31,7 @@
       card[i].querySelector('.back').style.backgroundImage = pics[i];
       card[i].addEventListener('click', flip);
     }
+    
     score.innerText = '00';
 
     startTimer();
