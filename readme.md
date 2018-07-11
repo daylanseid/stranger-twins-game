@@ -1,4 +1,4 @@
-**Stranger Twins**
+**STRANGER TWINS**
 
 **Stranger Twins** is a memory game based on the Netflix series _"Stranger Things"_.
 
@@ -7,10 +7,10 @@ In the game, you must match all the upside down images before the timer runs out
 For every match you will receive a point. To win the game you must match all 8 images to get 8 points. 
 If you do not match all 8 images before the timer runs out you will be trapped in the _"upside down"_ demension. 
 
-Motivation
+Motivation:
 I like memory games and wanted to base the game on the Netflix series.
 
-Code style
+Code style:
 js-standard-style
 
 Screenshots
@@ -18,7 +18,7 @@ Screenshots
 https://i.imgur.com/0HjYnOV.png
 
 
-Tech/framework used
+Tech/framework used:
 HTML, CSS, Javascript
 
 Features:
@@ -35,7 +35,7 @@ https://daylanseid.github.io/stranger-twins-game/
    1. Timer will begin counting down automatically
    2. Click on box to reveal image
 
-Credits
+Credits:
 https://www.youtube.com/watch?v=c_ohDPWmsM0
 https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
 
